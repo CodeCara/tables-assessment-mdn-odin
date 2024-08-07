@@ -7,6 +7,7 @@ html {
     border: 2px solid rgb(200,200,200);
     letter-spacing: 1px;
     font-size: 0.8rem;
+    margin: 5px;
   }
   
   td, th {
@@ -33,3 +34,10 @@ html {
   caption {
     padding: 10px;
   }
+
+  .outer-container
+
+  {border: 1px solid black;}
+
+
+ 
